@@ -7,5 +7,5 @@ simple python script, takes in input soundcloud link, downloads mp3 as well as a
 
 Requires:
   Apple Music
-  Python interpreter/ IDE,
+  MacOS
   
